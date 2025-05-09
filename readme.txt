@@ -1,4 +1,7 @@
-Related article is under revision in 《Journal of Geographical Sciences》
+
+Related article is under revision in 《Journal of Geographical Sciences》！！！
+
+A provisional version can be shared privately：
 
 If this code is helpful to you please cite our article：
 

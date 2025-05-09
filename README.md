@@ -1,6 +1,7 @@
 # AmRTSNet_v51
 Automatic Mapping of Retrogressive Thaw Slumps Using Deep Learning
 
+Related article is under revision in 《Journal of Geographical Sciences》！！！
 
 If this code is helpful to you please cite our article：
 

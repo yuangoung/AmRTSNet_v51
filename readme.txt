@@ -1,3 +1,5 @@
+Related article is under revision in 《Journal of Geographical Sciences》
+
 If this code is helpful to you please cite our article：
 
 “Automatic Mapping and Pattern Analysis of Retrogressive Thaw Slumps in
